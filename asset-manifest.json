@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AppDeezer/static/css/main.f8cb9508.css",
+    "main.js": "/AppDeezer/static/js/main.47cd9b0b.js",
+    "static/js/787.c4940a6b.chunk.js": "/AppDeezer/static/js/787.c4940a6b.chunk.js",
+    "static/media/482-azul-degradado.jpg": "/AppDeezer/static/media/482-azul-degradado.195839ba48e2bb008175.jpg",
+    "static/media/Deezerlogo.png": "/AppDeezer/static/media/Deezerlogo.cd7b894a20531f925667.png",
+    "index.html": "/AppDeezer/index.html",
+    "main.f8cb9508.css.map": "/AppDeezer/static/css/main.f8cb9508.css.map",
+    "main.47cd9b0b.js.map": "/AppDeezer/static/js/main.47cd9b0b.js.map",
+    "787.c4940a6b.chunk.js.map": "/AppDeezer/static/js/787.c4940a6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8cb9508.css",
+    "static/js/main.47cd9b0b.js"
+  ]
+}
