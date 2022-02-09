@@ -7,13 +7,9 @@ import FavoritesAlbums from './components/Body/FavoritesAlbums'
 export default function routes() {
   return (
    <Fragment>
-     {/* <Route path="/" exact component={Home}/> */}
      <Route path="/" exact component={Home}/>
      <Route path="/details/:id" exact component={DetailsAlbum}/>
      <Route path="/favoritos" exact component={FavoritesAlbums}/>
-  
-
-
    </Fragment>
   )
 }

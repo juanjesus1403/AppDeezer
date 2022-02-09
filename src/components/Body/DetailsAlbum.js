@@ -58,7 +58,6 @@ class DetailsAlbum extends Component {
   }
 
   render() {
-    console.log(this.state)
     return (
       <div className="container">
         <div className="row mt-4">
